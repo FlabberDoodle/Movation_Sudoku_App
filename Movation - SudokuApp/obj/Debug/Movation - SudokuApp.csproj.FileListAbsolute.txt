@@ -1,0 +1,10 @@
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\bin\Debug\Movation - SudokuApp.exe.config
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\bin\Debug\Movation - SudokuApp.exe
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\bin\Debug\Movation - SudokuApp.pdb
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\obj\Debug\Movation - SudokuApp.csproj.AssemblyReference.cache
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\obj\Debug\Movation___SudokuApp.Properties.Resources.resources
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\obj\Debug\Movation - SudokuApp.csproj.GenerateResource.cache
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\obj\Debug\Movation - SudokuApp.csproj.CoreCompileInputs.cache
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\obj\Debug\Movation - SudokuApp.exe
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\obj\Debug\Movation - SudokuApp.pdb
+C:\Users\tnthe\Desktop\Movation\Movation - SudokuApp\Movation - SudokuApp\obj\Debug\Movation___SudokuApp.MainForm.resources
